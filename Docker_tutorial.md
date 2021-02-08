@@ -12,3 +12,9 @@ For this tutorial we are going to set up a simple web server and deploy a web pa
 ### Step 3: Next create a simple web page 'index.html'
 
 ### Step 4: Now open 'Dockerfile' in vi editor
+
+### Step 5: Next we are going to build the image using docker build.
+
+### Step 6: Run docker image
+
+### Step 7: Lets see the Results on web browser
