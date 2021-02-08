@@ -71,7 +71,7 @@ $ docker build /test/ -t webserver:v1
 $ docker build /test/ -t webserver:v1
 ```
 
-### Step 7: Lets see the Results on web browser
+### Step 7: Now to see the results on web browser
 
 ```web
 http://<host ip>:1234/
