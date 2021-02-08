@@ -1,6 +1,6 @@
 # Docker, Linux, Containerization
 
-#### WHat is Containerization?
+#### What is Containerization?
 #### What is Virtualization?
 #### How do they compare?
 #### A tutorial on how to setup a web server on your local computer using docker
