@@ -1,5 +1,5 @@
-#List Of Basic Linux Commands 
-##This is a list of basic linux commands
+# List Of Basic Linux Commands 
+## This is a list of basic linux commands
 
 ```bash
 $ pwd
@@ -51,7 +51,7 @@ $ sudo reboot
 ```
  These commands are used to power-off or reboot the computer. 
  
- ##This is how to log attach and log into a docker container in Pycharm
+ ## This is how to log attach and log into a docker container in Pycharm
  
  One way to log into docker and attach is by using the command
  ```bash

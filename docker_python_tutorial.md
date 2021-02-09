@@ -1,4 +1,4 @@
-#How To Start Docker Container on PyCharm
+# How To Start Docker Container on PyCharm
 
 1. First go to 
 ```bash
@@ -11,7 +11,7 @@ Configure Remote Python Interpreter
 ```
 and click the Docker button. Then click your machine name. 
 
-<img src = https://blog.jetbrains.com/wp-content/uploads/2015/12/pycharm-docker_interpreter.png> <img/> 
+<img src=https://blog.jetbrains.com/wp-content/uploads/2015/12/pycharm-docker_interpreter.png>  />
 
 When you see the dropdown for Images
 choose 
