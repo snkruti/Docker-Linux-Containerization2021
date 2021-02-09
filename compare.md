@@ -1,6 +1,6 @@
 # Containerization or virtualization
 
-
+<img src="https://lwstatic-a.akamaihd.net/kb/wp-content/uploads/2019/12/vm-vs-containers.png" width="500" height="350" />
 
 ## Virtualization
 
@@ -22,3 +22,7 @@
 
 * For activities with a much shorter lifecycle, **containers** are an excellent option.
 They are perfect for tasks that can only take a few hours, with their quick set-up time.
+
+## Conclusion
+
+Containerization and virtualization vary in several aspects, but the key difference is that containers in a single OS instance provide a way to virtualize an OS to run multiple workloads. With VMs, to run several OS instances, the hardware is virtualized. The container's speed, agility, and portability make it another instrument for streamlining the production of software.
