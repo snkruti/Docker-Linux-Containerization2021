@@ -47,6 +47,13 @@ $ ping
  "ping" is used to check a connection to a server. 
 ```bash
 $ sudo halt
-sudo reboot
+$ sudo reboot
 ```
  These commands are used to power-off or reboot the computer. 
+ 
+ ##This is how to log attach and log into a docker container in Pycharm
+ 
+ One way to log into docker and attach is by using the command
+ ```bash
+$ docker container run --name my_nginx -d -p 8080:80 nginx
+```
